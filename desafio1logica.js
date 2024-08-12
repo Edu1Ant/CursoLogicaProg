@@ -17,7 +17,7 @@ if (xp <= 1000) {
   console.log(`O Herói de nome ${nome} está no nível de ${niveis[1]}`);
 } else if (xp > 2000 && xp <= 5000) {
   console.log(`O Herói de nome ${nome} está no nível de ${niveis[2]}`);
-} else if (xp > 6000 && xp <= 7000) {
+} else if (xp > 5000 && xp <= 7000) {
   console.log(`O Herói de nome ${nome} está no nível de ${niveis[3]}`);
 } else if (xp > 7000 && xp <= 8000) {
   console.log(`O Herói de nome ${nome} está no nível de ${niveis[4]}`);
